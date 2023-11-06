@@ -1,0 +1,17 @@
+
+.header {
+    background-color: #003049 !important; 
+    color: #fdf0d5 !important;
+    text-align: center !important; 
+    
+  }
+
+.logo {
+    max-height: 50px;
+    color: #fdf0d5 !important;
+    margin-left: 20px !important;
+  }
+  
+.font_header{
+    font: 50px Source Code Pro  !important;
+}

@@ -1,0 +1,52 @@
+.font_text{
+    font-family: Source Code Pro !important;
+}
+.text-section{
+    font-family: Source Code Pro !important;
+    color: black;
+}
+.text-section h1 {
+    font-size: 2 rem;
+    color: #333;
+  }
+  
+  .text-section p {
+    font-size: 1.5rem;
+    color: #00000;
+  }
+
+.feedback-container {
+
+    padding: 20px;
+    margin: 10px 150px;
+    font-family: 'Source Code Pro', monospace;
+  }
+  
+  .feedback-container h1 {
+    font-size: 2 rem;
+    color: #333;
+  }
+  
+  .feedback-container p {
+    font-size: 1.5rem;
+    color: #000000;
+  }
+
+  .custom-button {
+    background-color: #003049;
+    font-family: Source Code Pro !important;
+    color: #fdf0d5; 
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+.custom-button:hover {
+    background-color: #669bbc;
+    color: #000000
+  }
