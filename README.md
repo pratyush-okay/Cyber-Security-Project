@@ -1,4 +1,4 @@
-# COMP6841-Project
+# Cyber-Security-Project
 
 
 # Project Code - Getting Started
